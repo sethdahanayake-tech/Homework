@@ -6,5 +6,7 @@ if char.isalpha():
     print(f"{char} is an alphabet letter.")
 else:
     print(f"{char} is not an alphabet letter.") 
+if char.isdigit():
+    print(f"{char} is a digit.")
 
-
+    
